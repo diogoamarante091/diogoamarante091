@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Diogo Amarante and I'm a Junior Developer, from Fortaleza-Ceará - Brazil.</h2>
 
+*Studying python and Git/GitHub*
+
 ###
 
 <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93cb2394-db3d-4c6f-8393-d493a2aa1323/dfs7e50-a6f1c3c5-d7b3-4f28-9c9c-9ec726a926d1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzY2IyMzk0LWRiM2QtNGM2Zi04MzkzLWQ0OTNhMmFhMTMyM1wvZGZzN2U1MC1hNmYxYzNjNS1kN2IzLTRmMjgtOWM5Yy05ZWM3MjZhOTI2ZDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.v4Dh_BxdsaQZuSlLJHoVgKVRJot-0ss6w4-3Dtd7Ru4"  />
