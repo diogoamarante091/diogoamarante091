@@ -1,36 +1,39 @@
 <p align="center">
-  <img src="banner-dojo-metrics.png" />
+  <img src="banner-dojo-metrics.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Diogo Amarante</h1>
 
 <p align="center">
-Junior Developer from Fortaleza, Ceará - Brazil 🇧🇷
+Developer from Fortaleza, Ceará - Brazil 🇧🇷
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Studying **Python, Web Development and Git/GitHub**
+🥋 Creator of **Dojo Metrics**
 
-🥋 Creator of **Dojo Metrics**  
-A platform to help martial arts academies manage students and progress.
+I'm currently building **Dojo Metrics**, a platform designed to help martial arts academies manage students, track belt progression and organize classes.
 
-📚 Currently learning:
-- Python
-- JavaScript
-- Git & GitHub
-- Web Development
-
-🎯 Goal: Become a professional developer and build impactful products.
+I focus on **building real products and learning through creation**.
 
 ---
 
-## 🛠️ Tech I'm Learning
+## 🧠 Current Focus
+
+⚡ Building **Dojo Metrics**
+
+💻 SaaS development  
+📊 Product development  
+🚀 System architecture and web platforms
+
+---
+
+## 🛠 Tech & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,react,nextjs,supabase" />
 </p>
 
 ---
