@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["banner-dojo-metrics.png" width="100%" alt="Diogo Amarante Banner"](https://github.com/diogoamarante091/metrics-navigator/issues/1)/>
+  <img src="https://github.com/user-attachments/assets/ac876901-eb13-4884-9eae-a7712ef9761d" width="100%" alt="Diogo Amarante Banner" />
 </p>
 
 <h1 align="center">Diogo Amarante</h1>
